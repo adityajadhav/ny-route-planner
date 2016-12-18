@@ -1,0 +1,10959 @@
+[{
+  "source" : {
+    "id" : "608",
+    "name" : "Parkchester"
+  },
+  "destination" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "duration" : 330,
+  "line" : "6X"
+},
+{
+  "source" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "destination" : {
+    "id" : "619",
+    "name" : "3 Av - 138 St"
+  },
+  "duration" : 450,
+  "line" : "6X"
+},
+{
+  "source" : {
+    "id" : "101",
+    "name" : "Van Cortlandt Park - 242 St"
+  },
+  "destination" : {
+    "id" : "103",
+    "name" : "238 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "103",
+    "name" : "238 St"
+  },
+  "destination" : {
+    "id" : "104",
+    "name" : "231 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "104",
+    "name" : "231 St"
+  },
+  "destination" : {
+    "id" : "106",
+    "name" : "Marble Hill - 225 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "106",
+    "name" : "Marble Hill - 225 St"
+  },
+  "destination" : {
+    "id" : "107",
+    "name" : "215 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "107",
+    "name" : "215 St"
+  },
+  "destination" : {
+    "id" : "108",
+    "name" : "207 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "108",
+    "name" : "207 St"
+  },
+  "destination" : {
+    "id" : "109",
+    "name" : "Dyckman St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "109",
+    "name" : "Dyckman St"
+  },
+  "destination" : {
+    "id" : "110",
+    "name" : "191 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "110",
+    "name" : "191 St"
+  },
+  "destination" : {
+    "id" : "111",
+    "name" : "181 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "111",
+    "name" : "181 St"
+  },
+  "destination" : {
+    "id" : "112",
+    "name" : "168 St - Washington Hts"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "112",
+    "name" : "168 St - Washington Hts"
+  },
+  "destination" : {
+    "id" : "113",
+    "name" : "157 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "113",
+    "name" : "157 St"
+  },
+  "destination" : {
+    "id" : "114",
+    "name" : "145 St"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "114",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "115",
+    "name" : "137 St - City College"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "115",
+    "name" : "137 St - City College"
+  },
+  "destination" : {
+    "id" : "116",
+    "name" : "125 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "116",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "117",
+    "name" : "116 St - Columbia University"
+  },
+  "duration" : 150,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "117",
+    "name" : "116 St - Columbia University"
+  },
+  "destination" : {
+    "id" : "118",
+    "name" : "Cathedral Pkwy"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "118",
+    "name" : "Cathedral Pkwy"
+  },
+  "destination" : {
+    "id" : "119",
+    "name" : "103 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "119",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "121",
+    "name" : "86 St"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "121",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "122",
+    "name" : "79 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "122",
+    "name" : "79 St"
+  },
+  "destination" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "124",
+    "name" : "66 St - Lincoln Center"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "124",
+    "name" : "66 St - Lincoln Center"
+  },
+  "destination" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "126",
+    "name" : "50 St"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "126",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "129",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "129",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "130",
+    "name" : "23 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "130",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "131",
+    "name" : "18 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "131",
+    "name" : "18 St"
+  },
+  "destination" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "133",
+    "name" : "Christopher St - Sheridan Sq"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "133",
+    "name" : "Christopher St - Sheridan Sq"
+  },
+  "destination" : {
+    "id" : "134",
+    "name" : "Houston St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "134",
+    "name" : "Houston St"
+  },
+  "destination" : {
+    "id" : "135",
+    "name" : "Canal St"
+  },
+  "duration" : 120,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "135",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "136",
+    "name" : "Franklin St"
+  },
+  "duration" : 60,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "136",
+    "name" : "Franklin St"
+  },
+  "destination" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "duration" : 180,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "138",
+    "name" : "Cortlandt St"
+  },
+  "duration" : 90,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "138",
+    "name" : "Cortlandt St"
+  },
+  "destination" : {
+    "id" : "139",
+    "name" : "Rector St"
+  },
+  "duration" : 150,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "139",
+    "name" : "Rector St"
+  },
+  "destination" : {
+    "id" : "140",
+    "name" : "South Ferry Loop"
+  },
+  "duration" : 150,
+  "line" : "1"
+}, {
+  "source" : {
+    "id" : "201",
+    "name" : "Wakefield - 241 St"
+  },
+  "destination" : {
+    "id" : "204",
+    "name" : "Nereid Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "204",
+    "name" : "Nereid Av"
+  },
+  "destination" : {
+    "id" : "205",
+    "name" : "233 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "205",
+    "name" : "233 St"
+  },
+  "destination" : {
+    "id" : "206",
+    "name" : "225 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "206",
+    "name" : "225 St"
+  },
+  "destination" : {
+    "id" : "207",
+    "name" : "219 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "207",
+    "name" : "219 St"
+  },
+  "destination" : {
+    "id" : "208",
+    "name" : "Gun Hill Rd"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "208",
+    "name" : "Gun Hill Rd"
+  },
+  "destination" : {
+    "id" : "209",
+    "name" : "Burke Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "209",
+    "name" : "Burke Av"
+  },
+  "destination" : {
+    "id" : "210",
+    "name" : "Allerton Av"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "210",
+    "name" : "Allerton Av"
+  },
+  "destination" : {
+    "id" : "211",
+    "name" : "Pelham Pkwy"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "211",
+    "name" : "Pelham Pkwy"
+  },
+  "destination" : {
+    "id" : "212",
+    "name" : "Bronx Park East"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "212",
+    "name" : "Bronx Park East"
+  },
+  "destination" : {
+    "id" : "213",
+    "name" : "E 180 St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "213",
+    "name" : "E 180 St"
+  },
+  "destination" : {
+    "id" : "214",
+    "name" : "West Farms Sq - E Tremont Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "214",
+    "name" : "West Farms Sq - E Tremont Av"
+  },
+  "destination" : {
+    "id" : "215",
+    "name" : "174 St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "215",
+    "name" : "174 St"
+  },
+  "destination" : {
+    "id" : "216",
+    "name" : "Freeman St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "216",
+    "name" : "Freeman St"
+  },
+  "destination" : {
+    "id" : "217",
+    "name" : "Simpson St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "217",
+    "name" : "Simpson St"
+  },
+  "destination" : {
+    "id" : "218",
+    "name" : "Intervale Av"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "218",
+    "name" : "Intervale Av"
+  },
+  "destination" : {
+    "id" : "219",
+    "name" : "Prospect Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "219",
+    "name" : "Prospect Av"
+  },
+  "destination" : {
+    "id" : "220",
+    "name" : "Jackson Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "220",
+    "name" : "Jackson Av"
+  },
+  "destination" : {
+    "id" : "221",
+    "name" : "3 Av - 149 St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "221",
+    "name" : "3 Av - 149 St"
+  },
+  "destination" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "224",
+    "name" : "135 St"
+  },
+  "duration" : 180,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "224",
+    "name" : "135 St"
+  },
+  "destination" : {
+    "id" : "225",
+    "name" : "125 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "225",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "226",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "226",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "227",
+    "name" : "Central Park North (110 St)"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "227",
+    "name" : "Central Park North (110 St)"
+  },
+  "destination" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "duration" : 270,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "121",
+    "name" : "86 St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "121",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "122",
+    "name" : "79 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "122",
+    "name" : "79 St"
+  },
+  "destination" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "124",
+    "name" : "66 St - Lincoln Center"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "124",
+    "name" : "66 St - Lincoln Center"
+  },
+  "destination" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "126",
+    "name" : "50 St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "126",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "129",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "129",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "130",
+    "name" : "23 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "130",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "131",
+    "name" : "18 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "131",
+    "name" : "18 St"
+  },
+  "destination" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "133",
+    "name" : "Christopher St - Sheridan Sq"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "133",
+    "name" : "Christopher St - Sheridan Sq"
+  },
+  "destination" : {
+    "id" : "134",
+    "name" : "Houston St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "134",
+    "name" : "Houston St"
+  },
+  "destination" : {
+    "id" : "135",
+    "name" : "Canal St"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "135",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "136",
+    "name" : "Franklin St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "136",
+    "name" : "Franklin St"
+  },
+  "destination" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "destination" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "duration" : 150,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "230",
+    "name" : "Wall St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "230",
+    "name" : "Wall St"
+  },
+  "destination" : {
+    "id" : "231",
+    "name" : "Clark St"
+  },
+  "duration" : 270,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "231",
+    "name" : "Clark St"
+  },
+  "destination" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "233",
+    "name" : "Hoyt St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "233",
+    "name" : "Hoyt St"
+  },
+  "destination" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "duration" : 180,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "duration" : 60,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "destination" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "destination" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "destination" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "241",
+    "name" : "President St"
+  },
+  "duration" : 150,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "241",
+    "name" : "President St"
+  },
+  "destination" : {
+    "id" : "242",
+    "name" : "Sterling St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "242",
+    "name" : "Sterling St"
+  },
+  "destination" : {
+    "id" : "243",
+    "name" : "Winthrop St"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "243",
+    "name" : "Winthrop St"
+  },
+  "destination" : {
+    "id" : "244",
+    "name" : "Church Av"
+  },
+  "duration" : 570,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "244",
+    "name" : "Church Av"
+  },
+  "destination" : {
+    "id" : "245",
+    "name" : "Beverly Rd"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "245",
+    "name" : "Beverly Rd"
+  },
+  "destination" : {
+    "id" : "246",
+    "name" : "Newkirk Av"
+  },
+  "duration" : 90,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "246",
+    "name" : "Newkirk Av"
+  },
+  "destination" : {
+    "id" : "247",
+    "name" : "Flatbush Av - Brooklyn College"
+  },
+  "duration" : 120,
+  "line" : "2"
+}, {
+  "source" : {
+    "id" : "301",
+    "name" : "Harlem - 148 St"
+  },
+  "destination" : {
+    "id" : "302",
+    "name" : "145 St"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "302",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "224",
+    "name" : "135 St"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "224",
+    "name" : "135 St"
+  },
+  "destination" : {
+    "id" : "225",
+    "name" : "125 St"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "225",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "226",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "226",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "227",
+    "name" : "Central Park North (110 St)"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "227",
+    "name" : "Central Park North (110 St)"
+  },
+  "destination" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "duration" : 270,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "120",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "duration" : 150,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "123",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 240,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "128",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "duration" : 180,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "duration" : 270,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "137",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "destination" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "duration" : 150,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "230",
+    "name" : "Wall St"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "230",
+    "name" : "Wall St"
+  },
+  "destination" : {
+    "id" : "231",
+    "name" : "Clark St"
+  },
+  "duration" : 270,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "231",
+    "name" : "Clark St"
+  },
+  "destination" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "233",
+    "name" : "Hoyt St"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "233",
+    "name" : "Hoyt St"
+  },
+  "destination" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "destination" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "destination" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "destination" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "destination" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "destination" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "destination" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "duration" : 150,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "destination" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "destination" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "duration" : 120,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "destination" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "destination" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "destination" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 60,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "257",
+    "name" : "New Lots Av"
+  },
+  "duration" : 90,
+  "line" : "3"
+}, {
+  "source" : {
+    "id" : "401",
+    "name" : "Woodlawn"
+  },
+  "destination" : {
+    "id" : "402",
+    "name" : "Mosholu Pkwy"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "402",
+    "name" : "Mosholu Pkwy"
+  },
+  "destination" : {
+    "id" : "405",
+    "name" : "Bedford Park Blvd - Lehman College"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "405",
+    "name" : "Bedford Park Blvd - Lehman College"
+  },
+  "destination" : {
+    "id" : "406",
+    "name" : "Kingsbridge Rd"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "406",
+    "name" : "Kingsbridge Rd"
+  },
+  "destination" : {
+    "id" : "407",
+    "name" : "Fordham Rd"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "407",
+    "name" : "Fordham Rd"
+  },
+  "destination" : {
+    "id" : "408",
+    "name" : "183 St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "408",
+    "name" : "183 St"
+  },
+  "destination" : {
+    "id" : "409",
+    "name" : "Burnside Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "409",
+    "name" : "Burnside Av"
+  },
+  "destination" : {
+    "id" : "410",
+    "name" : "176 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "410",
+    "name" : "176 St"
+  },
+  "destination" : {
+    "id" : "411",
+    "name" : "Mt Eden Av"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "411",
+    "name" : "Mt Eden Av"
+  },
+  "destination" : {
+    "id" : "412",
+    "name" : "170 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "412",
+    "name" : "170 St"
+  },
+  "destination" : {
+    "id" : "413",
+    "name" : "167 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "413",
+    "name" : "167 St"
+  },
+  "destination" : {
+    "id" : "414",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "414",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "destination" : {
+    "id" : "415",
+    "name" : "149 St - Grand Concourse"
+  },
+  "duration" : 150,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "415",
+    "name" : "149 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "416",
+    "name" : "138 St - Grand Concourse"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "416",
+    "name" : "138 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "duration" : 150,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "destination" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "destination" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "destination" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "destination" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "destination" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "duration" : 120,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "destination" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "419",
+    "name" : "Wall St"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "419",
+    "name" : "Wall St"
+  },
+  "destination" : {
+    "id" : "420",
+    "name" : "Bowling Green"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "420",
+    "name" : "Bowling Green"
+  },
+  "destination" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "duration" : 300,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "duration" : 210,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "236",
+    "name" : "Bergen St"
+  },
+  "destination" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "237",
+    "name" : "Grand Army Plaza"
+  },
+  "destination" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "238",
+    "name" : "Eastern Pkwy - Brooklyn Museum"
+  },
+  "destination" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "destination" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "destination" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "duration" : 600,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "destination" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "duration" : 150,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "destination" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "destination" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "destination" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "destination" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "destination" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 90,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "257",
+    "name" : "New Lots Av"
+  },
+  "duration" : 60,
+  "line" : "4"
+}, {
+  "source" : {
+    "id" : "257",
+    "name" : "New Lots Av"
+  },
+  "destination" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "256",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "255",
+    "name" : "Pennsylvania Av"
+  },
+  "destination" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "destination" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "253",
+    "name" : "Rockaway Av"
+  },
+  "destination" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "252",
+    "name" : "Saratoga Av"
+  },
+  "destination" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "251",
+    "name" : "Sutter Av - Rutland Rd"
+  },
+  "destination" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "duration" : 150,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "250",
+    "name" : "Crown Hts - Utica Av"
+  },
+  "destination" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "249",
+    "name" : "Kingston Av"
+  },
+  "destination" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "248",
+    "name" : "Nostrand Av"
+  },
+  "destination" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 240,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "234",
+    "name" : "Nevins St"
+  },
+  "destination" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "420",
+    "name" : "Bowling Green"
+  },
+  "duration" : 300,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "420",
+    "name" : "Bowling Green"
+  },
+  "destination" : {
+    "id" : "419",
+    "name" : "Wall St"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "419",
+    "name" : "Wall St"
+  },
+  "destination" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 270,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 210,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "duration" : 210,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "duration" : 270,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "416",
+    "name" : "138 St - Grand Concourse"
+  },
+  "duration" : 150,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "416",
+    "name" : "138 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "duration" : 150,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "221",
+    "name" : "3 Av - 149 St"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "221",
+    "name" : "3 Av - 149 St"
+  },
+  "destination" : {
+    "id" : "220",
+    "name" : "Jackson Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "220",
+    "name" : "Jackson Av"
+  },
+  "destination" : {
+    "id" : "219",
+    "name" : "Prospect Av"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "219",
+    "name" : "Prospect Av"
+  },
+  "destination" : {
+    "id" : "218",
+    "name" : "Intervale Av"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "218",
+    "name" : "Intervale Av"
+  },
+  "destination" : {
+    "id" : "217",
+    "name" : "Simpson St"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "217",
+    "name" : "Simpson St"
+  },
+  "destination" : {
+    "id" : "216",
+    "name" : "Freeman St"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "216",
+    "name" : "Freeman St"
+  },
+  "destination" : {
+    "id" : "215",
+    "name" : "174 St"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "215",
+    "name" : "174 St"
+  },
+  "destination" : {
+    "id" : "214",
+    "name" : "West Farms Sq - E Tremont Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "214",
+    "name" : "West Farms Sq - E Tremont Av"
+  },
+  "destination" : {
+    "id" : "213",
+    "name" : "E 180 St"
+  },
+  "duration" : 90,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "213",
+    "name" : "E 180 St"
+  },
+  "destination" : {
+    "id" : "505",
+    "name" : "Morris Park"
+  },
+  "duration" : 210,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "505",
+    "name" : "Morris Park"
+  },
+  "destination" : {
+    "id" : "504",
+    "name" : "Pelham Pkwy"
+  },
+  "duration" : 60,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "504",
+    "name" : "Pelham Pkwy"
+  },
+  "destination" : {
+    "id" : "503",
+    "name" : "Gun Hill Rd"
+  },
+  "duration" : 180,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "503",
+    "name" : "Gun Hill Rd"
+  },
+  "destination" : {
+    "id" : "502",
+    "name" : "Baychester Av"
+  },
+  "duration" : 120,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "502",
+    "name" : "Baychester Av"
+  },
+  "destination" : {
+    "id" : "501",
+    "name" : "Eastchester - Dyre Av"
+  },
+  "duration" : 150,
+  "line" : "5"
+}, {
+  "source" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "destination" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "destination" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "destination" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "destination" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "619",
+    "name" : "3 Av - 138 St"
+  },
+  "duration" : 180,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "619",
+    "name" : "3 Av - 138 St"
+  },
+  "destination" : {
+    "id" : "618",
+    "name" : "Brook Av"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "618",
+    "name" : "Brook Av"
+  },
+  "destination" : {
+    "id" : "617",
+    "name" : "Cypress Av"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "617",
+    "name" : "Cypress Av"
+  },
+  "destination" : {
+    "id" : "616",
+    "name" : "E 143 St - St Mary's St"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "616",
+    "name" : "E 143 St - St Mary's St"
+  },
+  "destination" : {
+    "id" : "615",
+    "name" : "E 149 St"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "615",
+    "name" : "E 149 St"
+  },
+  "destination" : {
+    "id" : "614",
+    "name" : "Longwood Av"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "614",
+    "name" : "Longwood Av"
+  },
+  "destination" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "destination" : {
+    "id" : "612",
+    "name" : "Whitlock Av"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "612",
+    "name" : "Whitlock Av"
+  },
+  "destination" : {
+    "id" : "611",
+    "name" : "Elder Av"
+  },
+  "duration" : 120,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "611",
+    "name" : "Elder Av"
+  },
+  "destination" : {
+    "id" : "610",
+    "name" : "Morrison Av- Sound View"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "610",
+    "name" : "Morrison Av- Sound View"
+  },
+  "destination" : {
+    "id" : "609",
+    "name" : "St Lawrence Av"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "609",
+    "name" : "St Lawrence Av"
+  },
+  "destination" : {
+    "id" : "608",
+    "name" : "Parkchester"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "608",
+    "name" : "Parkchester"
+  },
+  "destination" : {
+    "id" : "607",
+    "name" : "Castle Hill Av"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "607",
+    "name" : "Castle Hill Av"
+  },
+  "destination" : {
+    "id" : "606",
+    "name" : "Zerega Av"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "606",
+    "name" : "Zerega Av"
+  },
+  "destination" : {
+    "id" : "604",
+    "name" : "Westchester Sq - E Tremont Av"
+  },
+  "duration" : 60,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "604",
+    "name" : "Westchester Sq - E Tremont Av"
+  },
+  "destination" : {
+    "id" : "603",
+    "name" : "Middletown Rd"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "603",
+    "name" : "Middletown Rd"
+  },
+  "destination" : {
+    "id" : "602",
+    "name" : "Buhre Av"
+  },
+  "duration" : 90,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "602",
+    "name" : "Buhre Av"
+  },
+  "destination" : {
+    "id" : "601",
+    "name" : "Pelham Bay Park"
+  },
+  "duration" : 150,
+  "line" : "6"
+}, {
+  "source" : {
+    "id" : "601",
+    "name" : "Pelham Bay Park"
+  },
+  "destination" : {
+    "id" : "602",
+    "name" : "Buhre Av"
+  },
+  "duration" : 150,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "602",
+    "name" : "Buhre Av"
+  },
+  "destination" : {
+    "id" : "603",
+    "name" : "Middletown Rd"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "603",
+    "name" : "Middletown Rd"
+  },
+  "destination" : {
+    "id" : "604",
+    "name" : "Westchester Sq - E Tremont Av"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "604",
+    "name" : "Westchester Sq - E Tremont Av"
+  },
+  "destination" : {
+    "id" : "606",
+    "name" : "Zerega Av"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "606",
+    "name" : "Zerega Av"
+  },
+  "destination" : {
+    "id" : "607",
+    "name" : "Castle Hill Av"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "607",
+    "name" : "Castle Hill Av"
+  },
+  "destination" : {
+    "id" : "608",
+    "name" : "Parkchester"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "608",
+    "name" : "Parkchester"
+  },
+  "destination" : {
+    "id" : "609",
+    "name" : "St Lawrence Av"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "609",
+    "name" : "St Lawrence Av"
+  },
+  "destination" : {
+    "id" : "610",
+    "name" : "Morrison Av- Sound View"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "610",
+    "name" : "Morrison Av- Sound View"
+  },
+  "destination" : {
+    "id" : "611",
+    "name" : "Elder Av"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "611",
+    "name" : "Elder Av"
+  },
+  "destination" : {
+    "id" : "612",
+    "name" : "Whitlock Av"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "612",
+    "name" : "Whitlock Av"
+  },
+  "destination" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "613",
+    "name" : "Hunts Point Av"
+  },
+  "destination" : {
+    "id" : "619",
+    "name" : "3 Av - 138 St"
+  },
+  "duration" : 420,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "619",
+    "name" : "3 Av - 138 St"
+  },
+  "destination" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "duration" : 180,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "621",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "622",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "623",
+    "name" : "110 St"
+  },
+  "destination" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "624",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "625",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "626",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "627",
+    "name" : "77 St"
+  },
+  "destination" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "628",
+    "name" : "68 St - Hunter College"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 240,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "632",
+    "name" : "33 St"
+  },
+  "destination" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "633",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "634",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "636",
+    "name" : "Astor Pl"
+  },
+  "destination" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "duration" : 90,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "destination" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "duration" : 60,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "638",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 300,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "duration" : 120,
+  "line" : "6X"
+}, {
+  "source" : {
+    "id" : "701",
+    "name" : "Flushing - Main St"
+  },
+  "destination" : {
+    "id" : "702",
+    "name" : "Mets - Willets Point"
+  },
+  "duration" : 150,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "702",
+    "name" : "Mets - Willets Point"
+  },
+  "destination" : {
+    "id" : "705",
+    "name" : "111 St"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "705",
+    "name" : "111 St"
+  },
+  "destination" : {
+    "id" : "706",
+    "name" : "103 St - Corona Plaza"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "706",
+    "name" : "103 St - Corona Plaza"
+  },
+  "destination" : {
+    "id" : "707",
+    "name" : "Junction Blvd"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "707",
+    "name" : "Junction Blvd"
+  },
+  "destination" : {
+    "id" : "708",
+    "name" : "90 St - Elmhurst Av"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "708",
+    "name" : "90 St - Elmhurst Av"
+  },
+  "destination" : {
+    "id" : "709",
+    "name" : "82 St - Jackson Hts"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "709",
+    "name" : "82 St - Jackson Hts"
+  },
+  "destination" : {
+    "id" : "710",
+    "name" : "74 St - Broadway"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "710",
+    "name" : "74 St - Broadway"
+  },
+  "destination" : {
+    "id" : "711",
+    "name" : "69 St"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "711",
+    "name" : "69 St"
+  },
+  "destination" : {
+    "id" : "712",
+    "name" : "Woodside - 61 St"
+  },
+  "duration" : 120,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "712",
+    "name" : "Woodside - 61 St"
+  },
+  "destination" : {
+    "id" : "713",
+    "name" : "52 St"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "713",
+    "name" : "52 St"
+  },
+  "destination" : {
+    "id" : "714",
+    "name" : "46 St"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "714",
+    "name" : "46 St"
+  },
+  "destination" : {
+    "id" : "715",
+    "name" : "40 St"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "715",
+    "name" : "40 St"
+  },
+  "destination" : {
+    "id" : "716",
+    "name" : "33 St"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "716",
+    "name" : "33 St"
+  },
+  "destination" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 120,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "720",
+    "name" : "Hunters Point Av"
+  },
+  "duration" : 120,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "720",
+    "name" : "Hunters Point Av"
+  },
+  "destination" : {
+    "id" : "721",
+    "name" : "Vernon Blvd - Jackson Av"
+  },
+  "duration" : 60,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "721",
+    "name" : "Vernon Blvd - Jackson Av"
+  },
+  "destination" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 270,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "726",
+    "name" : "34 St - 11 Av"
+  },
+  "duration" : 210,
+  "line" : "7"
+}, {
+  "source" : {
+    "id" : "701",
+    "name" : "Flushing - Main St"
+  },
+  "destination" : {
+    "id" : "702",
+    "name" : "Mets - Willets Point"
+  },
+  "duration" : 180,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "702",
+    "name" : "Mets - Willets Point"
+  },
+  "destination" : {
+    "id" : "707",
+    "name" : "Junction Blvd"
+  },
+  "duration" : 210,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "707",
+    "name" : "Junction Blvd"
+  },
+  "destination" : {
+    "id" : "712",
+    "name" : "Woodside - 61 St"
+  },
+  "duration" : 240,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "712",
+    "name" : "Woodside - 61 St"
+  },
+  "destination" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 330,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "duration" : 90,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "720",
+    "name" : "Hunters Point Av"
+  },
+  "duration" : 120,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "720",
+    "name" : "Hunters Point Av"
+  },
+  "destination" : {
+    "id" : "721",
+    "name" : "Vernon Blvd - Jackson Av"
+  },
+  "duration" : 60,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "721",
+    "name" : "Vernon Blvd - Jackson Av"
+  },
+  "destination" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 300,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "duration" : 90,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 150,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "726",
+    "name" : "34 St - 11 Av"
+  },
+  "duration" : 240,
+  "line" : "7X"
+}, {
+  "source" : {
+    "id" : "H11",
+    "name" : "Far Rockaway - Mott Av"
+  },
+  "destination" : {
+    "id" : "H10",
+    "name" : "Beach 25 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H10",
+    "name" : "Beach 25 St"
+  },
+  "destination" : {
+    "id" : "H09",
+    "name" : "Beach 36 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H09",
+    "name" : "Beach 36 St"
+  },
+  "destination" : {
+    "id" : "H08",
+    "name" : "Beach 44 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H08",
+    "name" : "Beach 44 St"
+  },
+  "destination" : {
+    "id" : "H07",
+    "name" : "Beach 60 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H07",
+    "name" : "Beach 60 St"
+  },
+  "destination" : {
+    "id" : "H06",
+    "name" : "Beach 67 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H06",
+    "name" : "Beach 67 St"
+  },
+  "destination" : {
+    "id" : "H04",
+    "name" : "Broad Channel"
+  },
+  "duration" : 240,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H04",
+    "name" : "Broad Channel"
+  },
+  "destination" : {
+    "id" : "H03",
+    "name" : "Howard Beach - JFK Airport"
+  },
+  "duration" : 390,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H03",
+    "name" : "Howard Beach - JFK Airport"
+  },
+  "destination" : {
+    "id" : "H02",
+    "name" : "Aqueduct - N Conduit Av"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H02",
+    "name" : "Aqueduct - N Conduit Av"
+  },
+  "destination" : {
+    "id" : "H01",
+    "name" : "Aqueduct Racetrack"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "H01",
+    "name" : "Aqueduct Racetrack"
+  },
+  "destination" : {
+    "id" : "A61",
+    "name" : "Rockaway Blvd"
+  },
+  "duration" : 180,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A61",
+    "name" : "Rockaway Blvd"
+  },
+  "destination" : {
+    "id" : "A60",
+    "name" : "88 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A60",
+    "name" : "88 St"
+  },
+  "destination" : {
+    "id" : "A59",
+    "name" : "80 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A59",
+    "name" : "80 St"
+  },
+  "destination" : {
+    "id" : "A57",
+    "name" : "Grant Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A57",
+    "name" : "Grant Av"
+  },
+  "destination" : {
+    "id" : "A55",
+    "name" : "Euclid Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A55",
+    "name" : "Euclid Av"
+  },
+  "destination" : {
+    "id" : "A54",
+    "name" : "Shepherd Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A54",
+    "name" : "Shepherd Av"
+  },
+  "destination" : {
+    "id" : "A53",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A53",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "A52",
+    "name" : "Liberty Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A52",
+    "name" : "Liberty Av"
+  },
+  "destination" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "A50",
+    "name" : "Rockaway Av"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A50",
+    "name" : "Rockaway Av"
+  },
+  "destination" : {
+    "id" : "A49",
+    "name" : "Ralph Av"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A49",
+    "name" : "Ralph Av"
+  },
+  "destination" : {
+    "id" : "A48",
+    "name" : "Utica Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A48",
+    "name" : "Utica Av"
+  },
+  "destination" : {
+    "id" : "A47",
+    "name" : "Kingston - Throop Avs"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A47",
+    "name" : "Kingston - Throop Avs"
+  },
+  "destination" : {
+    "id" : "A46",
+    "name" : "Nostrand Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A46",
+    "name" : "Nostrand Av"
+  },
+  "destination" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "A44",
+    "name" : "Clinton - Washington Avs"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A44",
+    "name" : "Clinton - Washington Avs"
+  },
+  "destination" : {
+    "id" : "A43",
+    "name" : "Lafayette Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A43",
+    "name" : "Lafayette Av"
+  },
+  "destination" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "destination" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "A40",
+    "name" : "High St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A40",
+    "name" : "High St"
+  },
+  "destination" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "destination" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "destination" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "destination" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "A11",
+    "name" : "155 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A11",
+    "name" : "155 St"
+  },
+  "destination" : {
+    "id" : "A10",
+    "name" : "163 St - Amsterdam Av"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A10",
+    "name" : "163 St - Amsterdam Av"
+  },
+  "destination" : {
+    "id" : "A09",
+    "name" : "168 St"
+  },
+  "duration" : 240,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A09",
+    "name" : "168 St"
+  },
+  "destination" : {
+    "id" : "A07",
+    "name" : "175 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A07",
+    "name" : "175 St"
+  },
+  "destination" : {
+    "id" : "A06",
+    "name" : "181 St"
+  },
+  "duration" : 60,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A06",
+    "name" : "181 St"
+  },
+  "destination" : {
+    "id" : "A05",
+    "name" : "190 St"
+  },
+  "duration" : 120,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A05",
+    "name" : "190 St"
+  },
+  "destination" : {
+    "id" : "A03",
+    "name" : "Dyckman St"
+  },
+  "duration" : 300,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "A03",
+    "name" : "Dyckman St"
+  },
+  "destination" : {
+    "id" : "A02",
+    "name" : "Inwood - 207 St"
+  },
+  "duration" : 90,
+  "line" : "A"
+}, {
+  "source" : {
+    "id" : "D03",
+    "name" : "Bedford Park Blvd"
+  },
+  "destination" : {
+    "id" : "D04",
+    "name" : "Kingsbridge Rd"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D04",
+    "name" : "Kingsbridge Rd"
+  },
+  "destination" : {
+    "id" : "D05",
+    "name" : "Fordham Rd"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D05",
+    "name" : "Fordham Rd"
+  },
+  "destination" : {
+    "id" : "D06",
+    "name" : "182-183 Sts"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D06",
+    "name" : "182-183 Sts"
+  },
+  "destination" : {
+    "id" : "D07",
+    "name" : "Tremont Av"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D07",
+    "name" : "Tremont Av"
+  },
+  "destination" : {
+    "id" : "D08",
+    "name" : "174-175 Sts"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D08",
+    "name" : "174-175 Sts"
+  },
+  "destination" : {
+    "id" : "D09",
+    "name" : "170 St"
+  },
+  "duration" : 150,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D09",
+    "name" : "170 St"
+  },
+  "destination" : {
+    "id" : "D10",
+    "name" : "167 St"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D10",
+    "name" : "167 St"
+  },
+  "destination" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "duration" : 150,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "destination" : {
+    "id" : "D12",
+    "name" : "155 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D12",
+    "name" : "155 St"
+  },
+  "destination" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "destination" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "duration" : 210,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "destination" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "duration" : 60,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "destination" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "destination" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "duration" : 90,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "destination" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "duration" : 180,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "destination" : {
+    "id" : "D22",
+    "name" : "Grand St"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D22",
+    "name" : "Grand St"
+  },
+  "destination" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 510,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "D25",
+    "name" : "7 Av"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D25",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "D26",
+    "name" : "Prospect Park"
+  },
+  "duration" : 270,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D26",
+    "name" : "Prospect Park"
+  },
+  "destination" : {
+    "id" : "D28",
+    "name" : "Church Av"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D28",
+    "name" : "Church Av"
+  },
+  "destination" : {
+    "id" : "D31",
+    "name" : "Newkirk Plaza"
+  },
+  "duration" : 150,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D31",
+    "name" : "Newkirk Plaza"
+  },
+  "destination" : {
+    "id" : "D35",
+    "name" : "Kings Hwy"
+  },
+  "duration" : 270,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D35",
+    "name" : "Kings Hwy"
+  },
+  "destination" : {
+    "id" : "D39",
+    "name" : "Sheepshead Bay"
+  },
+  "duration" : 420,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "D39",
+    "name" : "Sheepshead Bay"
+  },
+  "destination" : {
+    "id" : "D40",
+    "name" : "Brighton Beach"
+  },
+  "duration" : 120,
+  "line" : "B"
+}, {
+  "source" : {
+    "id" : "A55",
+    "name" : "Euclid Av"
+  },
+  "destination" : {
+    "id" : "A54",
+    "name" : "Shepherd Av"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A54",
+    "name" : "Shepherd Av"
+  },
+  "destination" : {
+    "id" : "A53",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A53",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "A52",
+    "name" : "Liberty Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A52",
+    "name" : "Liberty Av"
+  },
+  "destination" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 150,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "A50",
+    "name" : "Rockaway Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A50",
+    "name" : "Rockaway Av"
+  },
+  "destination" : {
+    "id" : "A49",
+    "name" : "Ralph Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A49",
+    "name" : "Ralph Av"
+  },
+  "destination" : {
+    "id" : "A48",
+    "name" : "Utica Av"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A48",
+    "name" : "Utica Av"
+  },
+  "destination" : {
+    "id" : "A47",
+    "name" : "Kingston - Throop Avs"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A47",
+    "name" : "Kingston - Throop Avs"
+  },
+  "destination" : {
+    "id" : "A46",
+    "name" : "Nostrand Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A46",
+    "name" : "Nostrand Av"
+  },
+  "destination" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "duration" : 60,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "A44",
+    "name" : "Clinton - Washington Avs"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A44",
+    "name" : "Clinton - Washington Avs"
+  },
+  "destination" : {
+    "id" : "A43",
+    "name" : "Lafayette Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A43",
+    "name" : "Lafayette Av"
+  },
+  "destination" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "destination" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "A40",
+    "name" : "High St"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A40",
+    "name" : "High St"
+  },
+  "destination" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "duration" : 240,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "duration" : 180,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 150,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "duration" : 150,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 210,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A22",
+    "name" : "72 St"
+  },
+  "destination" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A21",
+    "name" : "81 St - Museum of Natural History"
+  },
+  "destination" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A20",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A19",
+    "name" : "96 St"
+  },
+  "destination" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A18",
+    "name" : "103 St"
+  },
+  "destination" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "duration" : 60,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A17",
+    "name" : "Cathedral Pkwy (110 St)"
+  },
+  "destination" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A16",
+    "name" : "116 St"
+  },
+  "destination" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "duration" : 150,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "duration" : 120,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A14",
+    "name" : "135 St"
+  },
+  "destination" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "A11",
+    "name" : "155 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A11",
+    "name" : "155 St"
+  },
+  "destination" : {
+    "id" : "A10",
+    "name" : "163 St - Amsterdam Av"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "A10",
+    "name" : "163 St - Amsterdam Av"
+  },
+  "destination" : {
+    "id" : "A09",
+    "name" : "168 St"
+  },
+  "duration" : 90,
+  "line" : "C"
+}, {
+  "source" : {
+    "id" : "D01",
+    "name" : "Norwood - 205 St"
+  },
+  "destination" : {
+    "id" : "D03",
+    "name" : "Bedford Park Blvd"
+  },
+  "duration" : 240,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D03",
+    "name" : "Bedford Park Blvd"
+  },
+  "destination" : {
+    "id" : "D04",
+    "name" : "Kingsbridge Rd"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D04",
+    "name" : "Kingsbridge Rd"
+  },
+  "destination" : {
+    "id" : "D05",
+    "name" : "Fordham Rd"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D05",
+    "name" : "Fordham Rd"
+  },
+  "destination" : {
+    "id" : "D06",
+    "name" : "182-183 Sts"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D06",
+    "name" : "182-183 Sts"
+  },
+  "destination" : {
+    "id" : "D07",
+    "name" : "Tremont Av"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D07",
+    "name" : "Tremont Av"
+  },
+  "destination" : {
+    "id" : "D08",
+    "name" : "174-175 Sts"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D08",
+    "name" : "174-175 Sts"
+  },
+  "destination" : {
+    "id" : "D09",
+    "name" : "170 St"
+  },
+  "duration" : 150,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D09",
+    "name" : "170 St"
+  },
+  "destination" : {
+    "id" : "D10",
+    "name" : "167 St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D10",
+    "name" : "167 St"
+  },
+  "destination" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "duration" : 150,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "destination" : {
+    "id" : "D12",
+    "name" : "155 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D12",
+    "name" : "155 St"
+  },
+  "destination" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "duration" : 210,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "A15",
+    "name" : "125 St"
+  },
+  "destination" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 480,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "destination" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "destination" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "duration" : 180,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "destination" : {
+    "id" : "D22",
+    "name" : "Grand St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "D22",
+    "name" : "Grand St"
+  },
+  "destination" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 600,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "destination" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "destination" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "destination" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "destination" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "B12",
+    "name" : "9 Av"
+  },
+  "duration" : 240,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B12",
+    "name" : "9 Av"
+  },
+  "destination" : {
+    "id" : "B13",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B13",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "destination" : {
+    "id" : "B14",
+    "name" : "50 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B14",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "B15",
+    "name" : "55 St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B15",
+    "name" : "55 St"
+  },
+  "destination" : {
+    "id" : "B16",
+    "name" : "62 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B16",
+    "name" : "62 St"
+  },
+  "destination" : {
+    "id" : "B17",
+    "name" : "71 St"
+  },
+  "duration" : 120,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B17",
+    "name" : "71 St"
+  },
+  "destination" : {
+    "id" : "B18",
+    "name" : "79 St"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B18",
+    "name" : "79 St"
+  },
+  "destination" : {
+    "id" : "B19",
+    "name" : "18 Av"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B19",
+    "name" : "18 Av"
+  },
+  "destination" : {
+    "id" : "B20",
+    "name" : "20 Av"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B20",
+    "name" : "20 Av"
+  },
+  "destination" : {
+    "id" : "B21",
+    "name" : "Bay Pkwy"
+  },
+  "duration" : 60,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B21",
+    "name" : "Bay Pkwy"
+  },
+  "destination" : {
+    "id" : "B22",
+    "name" : "25 Av"
+  },
+  "duration" : 90,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B22",
+    "name" : "25 Av"
+  },
+  "destination" : {
+    "id" : "B23",
+    "name" : "Bay 50 St"
+  },
+  "duration" : 480,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "B23",
+    "name" : "Bay 50 St"
+  },
+  "destination" : {
+    "id" : "D43",
+    "name" : "Coney Island - Stillwell Av"
+  },
+  "duration" : 240,
+  "line" : "D"
+}, {
+  "source" : {
+    "id" : "G05",
+    "name" : "Jamaica Center - Parsons/Archer"
+  },
+  "destination" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "destination" : {
+    "id" : "G07",
+    "name" : "Jamaica - Van Wyck"
+  },
+  "duration" : 150,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G07",
+    "name" : "Jamaica - Van Wyck"
+  },
+  "destination" : {
+    "id" : "F05",
+    "name" : "Briarwood - Van Wyck Blvd"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F05",
+    "name" : "Briarwood - Van Wyck Blvd"
+  },
+  "destination" : {
+    "id" : "F06",
+    "name" : "Kew Gardens - Union Tpke"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F06",
+    "name" : "Kew Gardens - Union Tpke"
+  },
+  "destination" : {
+    "id" : "F07",
+    "name" : "75 Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F07",
+    "name" : "75 Av"
+  },
+  "destination" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "destination" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "destination" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "destination" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "duration" : 60,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "destination" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "destination" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "destination" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "destination" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "destination" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "destination" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "destination" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "destination" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "destination" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "duration" : 180,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "destination" : {
+    "id" : "F12",
+    "name" : "5 Av/53 St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F12",
+    "name" : "5 Av/53 St"
+  },
+  "destination" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "D14",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "duration" : 330,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A25",
+    "name" : "50 St"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "duration" : 60,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A28",
+    "name" : "34 St - Penn Station"
+  },
+  "destination" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A30",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "duration" : 90,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A33",
+    "name" : "Spring St"
+  },
+  "destination" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "duration" : 330,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "A34",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "E01",
+    "name" : "World Trade Center"
+  },
+  "duration" : 120,
+  "line" : "E"
+}, {
+  "source" : {
+    "id" : "F01",
+    "name" : "Jamaica - 179 St"
+  },
+  "destination" : {
+    "id" : "F02",
+    "name" : "169 St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F02",
+    "name" : "169 St"
+  },
+  "destination" : {
+    "id" : "F03",
+    "name" : "Parsons Blvd"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F03",
+    "name" : "Parsons Blvd"
+  },
+  "destination" : {
+    "id" : "F04",
+    "name" : "Sutphin Blvd"
+  },
+  "duration" : 60,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F04",
+    "name" : "Sutphin Blvd"
+  },
+  "destination" : {
+    "id" : "F05",
+    "name" : "Briarwood - Van Wyck Blvd"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F05",
+    "name" : "Briarwood - Van Wyck Blvd"
+  },
+  "destination" : {
+    "id" : "F06",
+    "name" : "Kew Gardens - Union Tpke"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F06",
+    "name" : "Kew Gardens - Union Tpke"
+  },
+  "destination" : {
+    "id" : "F07",
+    "name" : "75 Av"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F07",
+    "name" : "75 Av"
+  },
+  "destination" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "destination" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "duration" : 420,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "destination" : {
+    "id" : "B04",
+    "name" : "21 St - Queensbridge"
+  },
+  "duration" : 390,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "B04",
+    "name" : "21 St - Queensbridge"
+  },
+  "destination" : {
+    "id" : "B06",
+    "name" : "Roosevelt Island"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "B06",
+    "name" : "Roosevelt Island"
+  },
+  "destination" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "duration" : 150,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "destination" : {
+    "id" : "B10",
+    "name" : "57 St"
+  },
+  "duration" : 150,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "B10",
+    "name" : "57 St"
+  },
+  "destination" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "destination" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "destination" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "D18",
+    "name" : "23 St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D18",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "duration" : 150,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "destination" : {
+    "id" : "F14",
+    "name" : "2 Av"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F14",
+    "name" : "2 Av"
+  },
+  "destination" : {
+    "id" : "F15",
+    "name" : "Delancey St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F15",
+    "name" : "Delancey St"
+  },
+  "destination" : {
+    "id" : "F16",
+    "name" : "East Broadway"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F16",
+    "name" : "East Broadway"
+  },
+  "destination" : {
+    "id" : "F18",
+    "name" : "York St"
+  },
+  "duration" : 150,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F18",
+    "name" : "York St"
+  },
+  "destination" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "F20",
+    "name" : "Bergen St"
+  },
+  "duration" : 150,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F20",
+    "name" : "Bergen St"
+  },
+  "destination" : {
+    "id" : "F21",
+    "name" : "Carroll St"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F21",
+    "name" : "Carroll St"
+  },
+  "destination" : {
+    "id" : "F22",
+    "name" : "Smith - 9 Sts"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F22",
+    "name" : "Smith - 9 Sts"
+  },
+  "destination" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "destination" : {
+    "id" : "F24",
+    "name" : "7 Av"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F24",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "F25",
+    "name" : "15 St - Prospect Park"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F25",
+    "name" : "15 St - Prospect Park"
+  },
+  "destination" : {
+    "id" : "F26",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F26",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "destination" : {
+    "id" : "F27",
+    "name" : "Church Av"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F27",
+    "name" : "Church Av"
+  },
+  "destination" : {
+    "id" : "F29",
+    "name" : "Ditmas Av"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F29",
+    "name" : "Ditmas Av"
+  },
+  "destination" : {
+    "id" : "F30",
+    "name" : "18 Av"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F30",
+    "name" : "18 Av"
+  },
+  "destination" : {
+    "id" : "F31",
+    "name" : "Avenue I"
+  },
+  "duration" : 60,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F31",
+    "name" : "Avenue I"
+  },
+  "destination" : {
+    "id" : "F32",
+    "name" : "Bay Pkwy"
+  },
+  "duration" : 60,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F32",
+    "name" : "Bay Pkwy"
+  },
+  "destination" : {
+    "id" : "F33",
+    "name" : "Avenue N"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F33",
+    "name" : "Avenue N"
+  },
+  "destination" : {
+    "id" : "F34",
+    "name" : "Avenue P"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F34",
+    "name" : "Avenue P"
+  },
+  "destination" : {
+    "id" : "F35",
+    "name" : "Kings Hwy"
+  },
+  "duration" : 540,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F35",
+    "name" : "Kings Hwy"
+  },
+  "destination" : {
+    "id" : "F36",
+    "name" : "Avenue U"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F36",
+    "name" : "Avenue U"
+  },
+  "destination" : {
+    "id" : "F38",
+    "name" : "Avenue X"
+  },
+  "duration" : 540,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F38",
+    "name" : "Avenue X"
+  },
+  "destination" : {
+    "id" : "F39",
+    "name" : "Neptune Av"
+  },
+  "duration" : 120,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "F39",
+    "name" : "Neptune Av"
+  },
+  "destination" : {
+    "id" : "D42",
+    "name" : "W 8 St - NY Aquarium"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "D42",
+    "name" : "W 8 St - NY Aquarium"
+  },
+  "destination" : {
+    "id" : "D43",
+    "name" : "Coney Island - Stillwell Av"
+  },
+  "duration" : 90,
+  "line" : "F"
+}, {
+  "source" : {
+    "id" : "S01",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "S03",
+    "name" : "Park Pl"
+  },
+  "duration" : 120,
+  "line" : "FS"
+}, {
+  "source" : {
+    "id" : "S03",
+    "name" : "Park Pl"
+  },
+  "destination" : {
+    "id" : "S04",
+    "name" : "Botanic Garden"
+  },
+  "duration" : 90,
+  "line" : "FS"
+}, {
+  "source" : {
+    "id" : "S04",
+    "name" : "Botanic Garden"
+  },
+  "destination" : {
+    "id" : "D26",
+    "name" : "Prospect Park"
+  },
+  "duration" : 180,
+  "line" : "FS"
+}, {
+  "source" : {
+    "id" : "F27",
+    "name" : "Church Av"
+  },
+  "destination" : {
+    "id" : "F26",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "duration" : 120,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F26",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "destination" : {
+    "id" : "F25",
+    "name" : "15 St - Prospect Park"
+  },
+  "duration" : 150,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F25",
+    "name" : "15 St - Prospect Park"
+  },
+  "destination" : {
+    "id" : "F24",
+    "name" : "7 Av"
+  },
+  "duration" : 120,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F24",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "duration" : 120,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "destination" : {
+    "id" : "F22",
+    "name" : "Smith - 9 Sts"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F22",
+    "name" : "Smith - 9 Sts"
+  },
+  "destination" : {
+    "id" : "F21",
+    "name" : "Carroll St"
+  },
+  "duration" : 120,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F21",
+    "name" : "Carroll St"
+  },
+  "destination" : {
+    "id" : "F20",
+    "name" : "Bergen St"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "F20",
+    "name" : "Bergen St"
+  },
+  "destination" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "duration" : 120,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "A42",
+    "name" : "Hoyt - Schermerhorn Sts"
+  },
+  "destination" : {
+    "id" : "G36",
+    "name" : "Fulton St"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G36",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "G35",
+    "name" : "Clinton - Washington Avs"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G35",
+    "name" : "Clinton - Washington Avs"
+  },
+  "destination" : {
+    "id" : "G34",
+    "name" : "Classon Av"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G34",
+    "name" : "Classon Av"
+  },
+  "destination" : {
+    "id" : "G33",
+    "name" : "Bedford - Nostrand Avs"
+  },
+  "duration" : 60,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G33",
+    "name" : "Bedford - Nostrand Avs"
+  },
+  "destination" : {
+    "id" : "G32",
+    "name" : "Myrtle - Willoughby Avs"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G32",
+    "name" : "Myrtle - Willoughby Avs"
+  },
+  "destination" : {
+    "id" : "G31",
+    "name" : "Flushing Av"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G31",
+    "name" : "Flushing Av"
+  },
+  "destination" : {
+    "id" : "G30",
+    "name" : "Broadway"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G30",
+    "name" : "Broadway"
+  },
+  "destination" : {
+    "id" : "G29",
+    "name" : "Metropolitan Av"
+  },
+  "duration" : 60,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G29",
+    "name" : "Metropolitan Av"
+  },
+  "destination" : {
+    "id" : "G28",
+    "name" : "Nassau Av"
+  },
+  "duration" : 180,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G28",
+    "name" : "Nassau Av"
+  },
+  "destination" : {
+    "id" : "G26",
+    "name" : "Greenpoint Av"
+  },
+  "duration" : 90,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G26",
+    "name" : "Greenpoint Av"
+  },
+  "destination" : {
+    "id" : "G24",
+    "name" : "21 St"
+  },
+  "duration" : 150,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "G24",
+    "name" : "21 St"
+  },
+  "destination" : {
+    "id" : "G22",
+    "name" : "Court Sq"
+  },
+  "duration" : 60,
+  "line" : "G"
+}, {
+  "source" : {
+    "id" : "901",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "GS"
+}, {
+  "source" : {
+    "id" : "H15",
+    "name" : "Rockaway Park - Beach 116 St"
+  },
+  "destination" : {
+    "id" : "H14",
+    "name" : "Beach 105 St"
+  },
+  "duration" : 150,
+  "line" : "H"
+}, {
+  "source" : {
+    "id" : "H14",
+    "name" : "Beach 105 St"
+  },
+  "destination" : {
+    "id" : "H13",
+    "name" : "Beach 98 St"
+  },
+  "duration" : 90,
+  "line" : "H"
+}, {
+  "source" : {
+    "id" : "H13",
+    "name" : "Beach 98 St"
+  },
+  "destination" : {
+    "id" : "H12",
+    "name" : "Beach 90 St"
+  },
+  "duration" : 120,
+  "line" : "H"
+}, {
+  "source" : {
+    "id" : "H12",
+    "name" : "Beach 90 St"
+  },
+  "destination" : {
+    "id" : "H04",
+    "name" : "Broad Channel"
+  },
+  "duration" : 330,
+  "line" : "H"
+}, {
+  "source" : {
+    "id" : "G05",
+    "name" : "Jamaica Center - Parsons/Archer"
+  },
+  "destination" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "duration" : 60,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "destination" : {
+    "id" : "J12",
+    "name" : "121 St"
+  },
+  "duration" : 240,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J12",
+    "name" : "121 St"
+  },
+  "destination" : {
+    "id" : "J13",
+    "name" : "111 St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J13",
+    "name" : "111 St"
+  },
+  "destination" : {
+    "id" : "J14",
+    "name" : "104 St"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J14",
+    "name" : "104 St"
+  },
+  "destination" : {
+    "id" : "J15",
+    "name" : "Woodhaven Blvd"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J15",
+    "name" : "Woodhaven Blvd"
+  },
+  "destination" : {
+    "id" : "J16",
+    "name" : "85 St - Forest Pkwy"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J16",
+    "name" : "85 St - Forest Pkwy"
+  },
+  "destination" : {
+    "id" : "J17",
+    "name" : "75 St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J17",
+    "name" : "75 St"
+  },
+  "destination" : {
+    "id" : "J19",
+    "name" : "Cypress Hills"
+  },
+  "duration" : 60,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J19",
+    "name" : "Cypress Hills"
+  },
+  "destination" : {
+    "id" : "J20",
+    "name" : "Crescent St"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J20",
+    "name" : "Crescent St"
+  },
+  "destination" : {
+    "id" : "J21",
+    "name" : "Norwood Av"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J21",
+    "name" : "Norwood Av"
+  },
+  "destination" : {
+    "id" : "J22",
+    "name" : "Cleveland St"
+  },
+  "duration" : 60,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J22",
+    "name" : "Cleveland St"
+  },
+  "destination" : {
+    "id" : "J23",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J23",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "J24",
+    "name" : "Alabama Av"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J24",
+    "name" : "Alabama Av"
+  },
+  "destination" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "J28",
+    "name" : "Chauncey St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J28",
+    "name" : "Chauncey St"
+  },
+  "destination" : {
+    "id" : "J29",
+    "name" : "Halsey St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J29",
+    "name" : "Halsey St"
+  },
+  "destination" : {
+    "id" : "J30",
+    "name" : "Gates Av"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J30",
+    "name" : "Gates Av"
+  },
+  "destination" : {
+    "id" : "J31",
+    "name" : "Kosciuszko St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "J31",
+    "name" : "Kosciuszko St"
+  },
+  "destination" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "duration" : 120,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "destination" : {
+    "id" : "M12",
+    "name" : "Flushing Av"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M12",
+    "name" : "Flushing Av"
+  },
+  "destination" : {
+    "id" : "M13",
+    "name" : "Lorimer St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M13",
+    "name" : "Lorimer St"
+  },
+  "destination" : {
+    "id" : "M14",
+    "name" : "Hewes St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M14",
+    "name" : "Hewes St"
+  },
+  "destination" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "duration" : 60,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "destination" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "duration" : 450,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "destination" : {
+    "id" : "M19",
+    "name" : "Bowery"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M19",
+    "name" : "Bowery"
+  },
+  "destination" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "duration" : 60,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "M23",
+    "name" : "Broad St"
+  },
+  "duration" : 90,
+  "line" : "J"
+}, {
+  "source" : {
+    "id" : "L01",
+    "name" : "8 Av"
+  },
+  "destination" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "destination" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "duration" : 120,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "destination" : {
+    "id" : "L05",
+    "name" : "3 Av"
+  },
+  "duration" : 30,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L05",
+    "name" : "3 Av"
+  },
+  "destination" : {
+    "id" : "L06",
+    "name" : "1 Av"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L06",
+    "name" : "1 Av"
+  },
+  "destination" : {
+    "id" : "L08",
+    "name" : "Bedford Av"
+  },
+  "duration" : 240,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L08",
+    "name" : "Bedford Av"
+  },
+  "destination" : {
+    "id" : "L10",
+    "name" : "Lorimer St"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L10",
+    "name" : "Lorimer St"
+  },
+  "destination" : {
+    "id" : "L11",
+    "name" : "Graham Av"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L11",
+    "name" : "Graham Av"
+  },
+  "destination" : {
+    "id" : "L12",
+    "name" : "Grand St"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L12",
+    "name" : "Grand St"
+  },
+  "destination" : {
+    "id" : "L13",
+    "name" : "Montrose Av"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L13",
+    "name" : "Montrose Av"
+  },
+  "destination" : {
+    "id" : "L14",
+    "name" : "Morgan Av"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L14",
+    "name" : "Morgan Av"
+  },
+  "destination" : {
+    "id" : "L15",
+    "name" : "Jefferson St"
+  },
+  "duration" : 120,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L15",
+    "name" : "Jefferson St"
+  },
+  "destination" : {
+    "id" : "L16",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L16",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "L17",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L17",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "destination" : {
+    "id" : "L19",
+    "name" : "Halsey St"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L19",
+    "name" : "Halsey St"
+  },
+  "destination" : {
+    "id" : "L20",
+    "name" : "Wilson Av"
+  },
+  "duration" : 150,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L20",
+    "name" : "Wilson Av"
+  },
+  "destination" : {
+    "id" : "L21",
+    "name" : "Bushwick Av - Aberdeen St"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L21",
+    "name" : "Bushwick Av - Aberdeen St"
+  },
+  "destination" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "L24",
+    "name" : "Atlantic Av"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L24",
+    "name" : "Atlantic Av"
+  },
+  "destination" : {
+    "id" : "L25",
+    "name" : "Sutter Av"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L25",
+    "name" : "Sutter Av"
+  },
+  "destination" : {
+    "id" : "L26",
+    "name" : "Livonia Av"
+  },
+  "duration" : 60,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L26",
+    "name" : "Livonia Av"
+  },
+  "destination" : {
+    "id" : "L27",
+    "name" : "New Lots Av"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L27",
+    "name" : "New Lots Av"
+  },
+  "destination" : {
+    "id" : "L28",
+    "name" : "E 105 St"
+  },
+  "duration" : 120,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "L28",
+    "name" : "E 105 St"
+  },
+  "destination" : {
+    "id" : "L29",
+    "name" : "Canarsie - Rockaway Pkwy"
+  },
+  "duration" : 90,
+  "line" : "L"
+}, {
+  "source" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "destination" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "destination" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "destination" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "destination" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "destination" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "destination" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "destination" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "destination" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "destination" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "destination" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "destination" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "destination" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "duration" : 150,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "duration" : 210,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "destination" : {
+    "id" : "F12",
+    "name" : "5 Av/53 St"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "F12",
+    "name" : "5 Av/53 St"
+  },
+  "destination" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "duration" : 240,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D15",
+    "name" : "47-50 Sts - Rockefeller Ctr"
+  },
+  "destination" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "destination" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "D18",
+    "name" : "23 St"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D18",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "duration" : 150,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "destination" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "duration" : 240,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "destination" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "duration" : 450,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "destination" : {
+    "id" : "M14",
+    "name" : "Hewes St"
+  },
+  "duration" : 60,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M14",
+    "name" : "Hewes St"
+  },
+  "destination" : {
+    "id" : "M13",
+    "name" : "Lorimer St"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M13",
+    "name" : "Lorimer St"
+  },
+  "destination" : {
+    "id" : "M12",
+    "name" : "Flushing Av"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M12",
+    "name" : "Flushing Av"
+  },
+  "destination" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "duration" : 150,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "destination" : {
+    "id" : "M10",
+    "name" : "Central Av"
+  },
+  "duration" : 150,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M10",
+    "name" : "Central Av"
+  },
+  "destination" : {
+    "id" : "M09",
+    "name" : "Knickerbocker Av"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M09",
+    "name" : "Knickerbocker Av"
+  },
+  "destination" : {
+    "id" : "M08",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "duration" : 300,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M08",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "destination" : {
+    "id" : "M06",
+    "name" : "Seneca Av"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M06",
+    "name" : "Seneca Av"
+  },
+  "destination" : {
+    "id" : "M05",
+    "name" : "Forest Av"
+  },
+  "duration" : 60,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M05",
+    "name" : "Forest Av"
+  },
+  "destination" : {
+    "id" : "M04",
+    "name" : "Fresh Pond Rd"
+  },
+  "duration" : 90,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "M04",
+    "name" : "Fresh Pond Rd"
+  },
+  "destination" : {
+    "id" : "M01",
+    "name" : "Middle Village - Metropolitan Av"
+  },
+  "duration" : 120,
+  "line" : "M"
+}, {
+  "source" : {
+    "id" : "R01",
+    "name" : "Astoria - Ditmars Blvd"
+  },
+  "destination" : {
+    "id" : "R03",
+    "name" : "Astoria Blvd"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R03",
+    "name" : "Astoria Blvd"
+  },
+  "destination" : {
+    "id" : "R04",
+    "name" : "30 Av"
+  },
+  "duration" : 60,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R04",
+    "name" : "30 Av"
+  },
+  "destination" : {
+    "id" : "R05",
+    "name" : "Broadway"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R05",
+    "name" : "Broadway"
+  },
+  "destination" : {
+    "id" : "R06",
+    "name" : "36 Av"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R06",
+    "name" : "36 Av"
+  },
+  "destination" : {
+    "id" : "R08",
+    "name" : "39 Av"
+  },
+  "duration" : 60,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R08",
+    "name" : "39 Av"
+  },
+  "destination" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "duration" : 270,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "destination" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "destination" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "duration" : 150,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "destination" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "R18",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R18",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "R19",
+    "name" : "23 St"
+  },
+  "duration" : 60,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R19",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "R21",
+    "name" : "8 St - NYU"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R21",
+    "name" : "8 St - NYU"
+  },
+  "destination" : {
+    "id" : "R22",
+    "name" : "Prince St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R22",
+    "name" : "Prince St"
+  },
+  "destination" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R24",
+    "name" : "City Hall"
+  },
+  "duration" : 150,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R24",
+    "name" : "City Hall"
+  },
+  "destination" : {
+    "id" : "R25",
+    "name" : "Cortlandt St"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R25",
+    "name" : "Cortlandt St"
+  },
+  "destination" : {
+    "id" : "R26",
+    "name" : "Rector St"
+  },
+  "duration" : 60,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R26",
+    "name" : "Rector St"
+  },
+  "destination" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "destination" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "duration" : 210,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "destination" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 300,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "destination" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "destination" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "destination" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "destination" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "R39",
+    "name" : "45 St"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R39",
+    "name" : "45 St"
+  },
+  "destination" : {
+    "id" : "R40",
+    "name" : "53 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R40",
+    "name" : "53 St"
+  },
+  "destination" : {
+    "id" : "R41",
+    "name" : "59 St"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "R41",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "N02",
+    "name" : "8 Av"
+  },
+  "duration" : 180,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N02",
+    "name" : "8 Av"
+  },
+  "destination" : {
+    "id" : "N03",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N03",
+    "name" : "Fort Hamilton Pkwy"
+  },
+  "destination" : {
+    "id" : "N04",
+    "name" : "New Utrecht Av"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N04",
+    "name" : "New Utrecht Av"
+  },
+  "destination" : {
+    "id" : "N05",
+    "name" : "18 Av"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N05",
+    "name" : "18 Av"
+  },
+  "destination" : {
+    "id" : "N06",
+    "name" : "20 Av"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N06",
+    "name" : "20 Av"
+  },
+  "destination" : {
+    "id" : "N07",
+    "name" : "Bay Pkwy"
+  },
+  "duration" : 90,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N07",
+    "name" : "Bay Pkwy"
+  },
+  "destination" : {
+    "id" : "N08",
+    "name" : "Kings Hwy"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N08",
+    "name" : "Kings Hwy"
+  },
+  "destination" : {
+    "id" : "N09",
+    "name" : "Avenue U"
+  },
+  "duration" : 120,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N09",
+    "name" : "Avenue U"
+  },
+  "destination" : {
+    "id" : "N10",
+    "name" : "86 St"
+  },
+  "duration" : 300,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "N10",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "D43",
+    "name" : "Coney Island - Stillwell Av"
+  },
+  "duration" : 240,
+  "line" : "N"
+}, {
+  "source" : {
+    "id" : "D43",
+    "name" : "Coney Island - Stillwell Av"
+  },
+  "destination" : {
+    "id" : "D42",
+    "name" : "W 8 St - NY Aquarium"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D42",
+    "name" : "W 8 St - NY Aquarium"
+  },
+  "destination" : {
+    "id" : "D41",
+    "name" : "Ocean Pkwy"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D41",
+    "name" : "Ocean Pkwy"
+  },
+  "destination" : {
+    "id" : "D40",
+    "name" : "Brighton Beach"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D40",
+    "name" : "Brighton Beach"
+  },
+  "destination" : {
+    "id" : "D39",
+    "name" : "Sheepshead Bay"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D39",
+    "name" : "Sheepshead Bay"
+  },
+  "destination" : {
+    "id" : "D38",
+    "name" : "Neck Rd"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D38",
+    "name" : "Neck Rd"
+  },
+  "destination" : {
+    "id" : "D37",
+    "name" : "Avenue U"
+  },
+  "duration" : 60,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D37",
+    "name" : "Avenue U"
+  },
+  "destination" : {
+    "id" : "D35",
+    "name" : "Kings Hwy"
+  },
+  "duration" : 180,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D35",
+    "name" : "Kings Hwy"
+  },
+  "destination" : {
+    "id" : "D34",
+    "name" : "Avenue M"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D34",
+    "name" : "Avenue M"
+  },
+  "destination" : {
+    "id" : "D33",
+    "name" : "Avenue J"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D33",
+    "name" : "Avenue J"
+  },
+  "destination" : {
+    "id" : "D32",
+    "name" : "Avenue H"
+  },
+  "duration" : 60,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D32",
+    "name" : "Avenue H"
+  },
+  "destination" : {
+    "id" : "D31",
+    "name" : "Newkirk Plaza"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D31",
+    "name" : "Newkirk Plaza"
+  },
+  "destination" : {
+    "id" : "D30",
+    "name" : "Cortelyou Rd"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D30",
+    "name" : "Cortelyou Rd"
+  },
+  "destination" : {
+    "id" : "D29",
+    "name" : "Beverley Rd"
+  },
+  "duration" : 30,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D29",
+    "name" : "Beverley Rd"
+  },
+  "destination" : {
+    "id" : "D28",
+    "name" : "Church Av"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D28",
+    "name" : "Church Av"
+  },
+  "destination" : {
+    "id" : "D27",
+    "name" : "Parkside Av"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D27",
+    "name" : "Parkside Av"
+  },
+  "destination" : {
+    "id" : "D26",
+    "name" : "Prospect Park"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D26",
+    "name" : "Prospect Park"
+  },
+  "destination" : {
+    "id" : "D25",
+    "name" : "7 Av"
+  },
+  "duration" : 240,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D25",
+    "name" : "7 Av"
+  },
+  "destination" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "duration" : 510,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 240,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 180,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "destination" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "destination" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "duration" : 150,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "destination" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "destination" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 360,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "R08",
+    "name" : "39 Av"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R08",
+    "name" : "39 Av"
+  },
+  "destination" : {
+    "id" : "R06",
+    "name" : "36 Av"
+  },
+  "duration" : 60,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R06",
+    "name" : "36 Av"
+  },
+  "destination" : {
+    "id" : "R05",
+    "name" : "Broadway"
+  },
+  "duration" : 120,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R05",
+    "name" : "Broadway"
+  },
+  "destination" : {
+    "id" : "R04",
+    "name" : "30 Av"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R04",
+    "name" : "30 Av"
+  },
+  "destination" : {
+    "id" : "R03",
+    "name" : "Astoria Blvd"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R03",
+    "name" : "Astoria Blvd"
+  },
+  "destination" : {
+    "id" : "R01",
+    "name" : "Astoria - Ditmars Blvd"
+  },
+  "duration" : 90,
+  "line" : "Q"
+}, {
+  "source" : {
+    "id" : "R45",
+    "name" : "Bay Ridge - 95 St"
+  },
+  "destination" : {
+    "id" : "R44",
+    "name" : "86 St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R44",
+    "name" : "86 St"
+  },
+  "destination" : {
+    "id" : "R43",
+    "name" : "77 St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R43",
+    "name" : "77 St"
+  },
+  "destination" : {
+    "id" : "R42",
+    "name" : "Bay Ridge Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R42",
+    "name" : "Bay Ridge Av"
+  },
+  "destination" : {
+    "id" : "R41",
+    "name" : "59 St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R41",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "R40",
+    "name" : "53 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R40",
+    "name" : "53 St"
+  },
+  "destination" : {
+    "id" : "R39",
+    "name" : "45 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R39",
+    "name" : "45 St"
+  },
+  "destination" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "duration" : 150,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R36",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R35",
+    "name" : "25 St"
+  },
+  "destination" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R34",
+    "name" : "Prospect Av"
+  },
+  "destination" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "destination" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R32",
+    "name" : "Union St"
+  },
+  "destination" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "duration" : 270,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R30",
+    "name" : "DeKalb Av"
+  },
+  "destination" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "destination" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "duration" : 210,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "destination" : {
+    "id" : "R26",
+    "name" : "Rector St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R26",
+    "name" : "Rector St"
+  },
+  "destination" : {
+    "id" : "R25",
+    "name" : "Cortlandt St"
+  },
+  "duration" : 60,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R25",
+    "name" : "Cortlandt St"
+  },
+  "destination" : {
+    "id" : "R24",
+    "name" : "City Hall"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R24",
+    "name" : "City Hall"
+  },
+  "destination" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "duration" : 150,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R22",
+    "name" : "Prince St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R22",
+    "name" : "Prince St"
+  },
+  "destination" : {
+    "id" : "R21",
+    "name" : "8 St - NYU"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R21",
+    "name" : "8 St - NYU"
+  },
+  "destination" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "R19",
+    "name" : "23 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R19",
+    "name" : "23 St"
+  },
+  "destination" : {
+    "id" : "R18",
+    "name" : "28 St"
+  },
+  "duration" : 60,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R18",
+    "name" : "28 St"
+  },
+  "destination" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 60,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R15",
+    "name" : "49 St"
+  },
+  "destination" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R14",
+    "name" : "57 St - 7 Av"
+  },
+  "destination" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "duration" : 150,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R13",
+    "name" : "5 Av/59 St"
+  },
+  "destination" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "destination" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "duration" : 330,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G21",
+    "name" : "Queens Plaza"
+  },
+  "destination" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G20",
+    "name" : "36 St"
+  },
+  "destination" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G19",
+    "name" : "Steinway St"
+  },
+  "destination" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G18",
+    "name" : "46 St"
+  },
+  "destination" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G16",
+    "name" : "Northern Blvd"
+  },
+  "destination" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "duration" : 60,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G15",
+    "name" : "65 St"
+  },
+  "destination" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "destination" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G13",
+    "name" : "Elmhurst Av"
+  },
+  "destination" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G12",
+    "name" : "Grand Av - Newtown"
+  },
+  "destination" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G11",
+    "name" : "Woodhaven Blvd"
+  },
+  "destination" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "duration" : 60,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G10",
+    "name" : "63 Dr - Rego Park"
+  },
+  "destination" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "duration" : 120,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "G09",
+    "name" : "67 Av"
+  },
+  "destination" : {
+    "id" : "G08",
+    "name" : "Forest Hills - 71 Av"
+  },
+  "duration" : 90,
+  "line" : "R"
+}, {
+  "source" : {
+    "id" : "S31",
+    "name" : "St George"
+  },
+  "destination" : {
+    "id" : "S30",
+    "name" : "Tompkinsville"
+  },
+  "duration" : 180,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S30",
+    "name" : "Tompkinsville"
+  },
+  "destination" : {
+    "id" : "S29",
+    "name" : "Stapleton"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S29",
+    "name" : "Stapleton"
+  },
+  "destination" : {
+    "id" : "S28",
+    "name" : "Clifton"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S28",
+    "name" : "Clifton"
+  },
+  "destination" : {
+    "id" : "S27",
+    "name" : "Grasmere"
+  },
+  "duration" : 180,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S27",
+    "name" : "Grasmere"
+  },
+  "destination" : {
+    "id" : "S26",
+    "name" : "Old Town"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S26",
+    "name" : "Old Town"
+  },
+  "destination" : {
+    "id" : "S25",
+    "name" : "Dongan Hills"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S25",
+    "name" : "Dongan Hills"
+  },
+  "destination" : {
+    "id" : "S24",
+    "name" : "Jefferson Av"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S24",
+    "name" : "Jefferson Av"
+  },
+  "destination" : {
+    "id" : "S23",
+    "name" : "Grant City"
+  },
+  "duration" : 60,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S23",
+    "name" : "Grant City"
+  },
+  "destination" : {
+    "id" : "S22",
+    "name" : "New Dorp"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S22",
+    "name" : "New Dorp"
+  },
+  "destination" : {
+    "id" : "S21",
+    "name" : "Oakwood Heights"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S21",
+    "name" : "Oakwood Heights"
+  },
+  "destination" : {
+    "id" : "S20",
+    "name" : "Bay Terrace"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S20",
+    "name" : "Bay Terrace"
+  },
+  "destination" : {
+    "id" : "S19",
+    "name" : "Great Kills"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S19",
+    "name" : "Great Kills"
+  },
+  "destination" : {
+    "id" : "S18",
+    "name" : "Eltingville"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S18",
+    "name" : "Eltingville"
+  },
+  "destination" : {
+    "id" : "S17",
+    "name" : "Annadale"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S17",
+    "name" : "Annadale"
+  },
+  "destination" : {
+    "id" : "S16",
+    "name" : "Huguenot"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S16",
+    "name" : "Huguenot"
+  },
+  "destination" : {
+    "id" : "S15",
+    "name" : "Prince's Bay"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S15",
+    "name" : "Prince's Bay"
+  },
+  "destination" : {
+    "id" : "S14",
+    "name" : "Pleasant Plains"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S14",
+    "name" : "Pleasant Plains"
+  },
+  "destination" : {
+    "id" : "S13",
+    "name" : "Richmond Valley"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S13",
+    "name" : "Richmond Valley"
+  },
+  "destination" : {
+    "id" : "S12",
+    "name" : "Nassau"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S12",
+    "name" : "Nassau"
+  },
+  "destination" : {
+    "id" : "S10",
+    "name" : "Atlantic"
+  },
+  "duration" : 60,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "S10",
+    "name" : "Atlantic"
+  },
+  "destination" : {
+    "id" : "S09",
+    "name" : "Tottenville"
+  },
+  "duration" : 120,
+  "line" : "SI"
+}, {
+  "source" : {
+    "id" : "G05",
+    "name" : "Jamaica Center - Parsons/Archer"
+  },
+  "destination" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "duration" : 60,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "G06",
+    "name" : "Sutphin Blvd - Archer Av - JFK Airport"
+  },
+  "destination" : {
+    "id" : "J12",
+    "name" : "121 St"
+  },
+  "duration" : 240,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J12",
+    "name" : "121 St"
+  },
+  "destination" : {
+    "id" : "J14",
+    "name" : "104 St"
+  },
+  "duration" : 180,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J14",
+    "name" : "104 St"
+  },
+  "destination" : {
+    "id" : "J15",
+    "name" : "Woodhaven Blvd"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J15",
+    "name" : "Woodhaven Blvd"
+  },
+  "destination" : {
+    "id" : "J17",
+    "name" : "75 St"
+  },
+  "duration" : 180,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J17",
+    "name" : "75 St"
+  },
+  "destination" : {
+    "id" : "J20",
+    "name" : "Crescent St"
+  },
+  "duration" : 150,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J20",
+    "name" : "Crescent St"
+  },
+  "destination" : {
+    "id" : "J21",
+    "name" : "Norwood Av"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J21",
+    "name" : "Norwood Av"
+  },
+  "destination" : {
+    "id" : "J23",
+    "name" : "Van Siclen Av"
+  },
+  "duration" : 150,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J23",
+    "name" : "Van Siclen Av"
+  },
+  "destination" : {
+    "id" : "J24",
+    "name" : "Alabama Av"
+  },
+  "duration" : 60,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J24",
+    "name" : "Alabama Av"
+  },
+  "destination" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "J28",
+    "name" : "Chauncey St"
+  },
+  "duration" : 60,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J28",
+    "name" : "Chauncey St"
+  },
+  "destination" : {
+    "id" : "J30",
+    "name" : "Gates Av"
+  },
+  "duration" : 150,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "J30",
+    "name" : "Gates Av"
+  },
+  "destination" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "duration" : 180,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M11",
+    "name" : "Myrtle Av"
+  },
+  "destination" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "duration" : 240,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M16",
+    "name" : "Marcy Av"
+  },
+  "destination" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "duration" : 450,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "destination" : {
+    "id" : "M19",
+    "name" : "Bowery"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M19",
+    "name" : "Bowery"
+  },
+  "destination" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "duration" : 120,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "M23",
+    "name" : "Broad St"
+  },
+  "duration" : 90,
+  "line" : "Z"
+}, {
+  "source" : {
+    "id" : "112",
+    "name" : "168 St - Washington Hts"
+  },
+  "destination" : {
+    "id" : "A09",
+    "name" : "168 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "140",
+    "name" : "South Ferry Loop"
+  },
+  "destination" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "duration" : 120,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "415",
+    "name" : "149 St - Grand Concourse"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "destination" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "destination" : {
+    "id" : "E01",
+    "name" : "World Trade Center"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "S04",
+    "name" : "Botanic Garden"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "destination" : {
+    "id" : "L26",
+    "name" : "Livonia Av"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "414",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "destination" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "415",
+    "name" : "149 St - Grand Concourse"
+  },
+  "destination" : {
+    "id" : "222",
+    "name" : "149 St - Grand Concourse"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "destination" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "destination" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "destination" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "901",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "destination" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "destination" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "710",
+    "name" : "74 St - Broadway"
+  },
+  "destination" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 0,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "G22",
+    "name" : "Court Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "901",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "destination" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "901",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "631",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "901",
+    "name" : "Grand Central - 42 St"
+  },
+  "destination" : {
+    "id" : "723",
+    "name" : "Grand Central - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A09",
+    "name" : "168 St"
+  },
+  "destination" : {
+    "id" : "112",
+    "name" : "168 St - Washington Hts"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A24",
+    "name" : "59 St - Columbus Circle"
+  },
+  "destination" : {
+    "id" : "125",
+    "name" : "59 St - Columbus Circle"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "destination" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "L01",
+    "name" : "8 Av"
+  },
+  "duration" : 90,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "E01",
+    "name" : "World Trade Center"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 90,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "S01",
+    "name" : "Franklin Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "destination" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "B16",
+    "name" : "62 St"
+  },
+  "destination" : {
+    "id" : "N04",
+    "name" : "New Utrecht Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D11",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "destination" : {
+    "id" : "414",
+    "name" : "161 St - Yankee Stadium"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D13",
+    "name" : "145 St"
+  },
+  "destination" : {
+    "id" : "A12",
+    "name" : "145 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D16",
+    "name" : "42 St - Bryant Pk"
+  },
+  "destination" : {
+    "id" : "724",
+    "name" : "5 Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "destination" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D20",
+    "name" : "W 4 St"
+  },
+  "destination" : {
+    "id" : "A32",
+    "name" : "W 4 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D21",
+    "name" : "Broadway-Lafayette St"
+  },
+  "destination" : {
+    "id" : "637",
+    "name" : "Bleecker St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "E01",
+    "name" : "World Trade Center"
+  },
+  "destination" : {
+    "id" : "228",
+    "name" : "Park Pl"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "E01",
+    "name" : "World Trade Center"
+  },
+  "destination" : {
+    "id" : "A36",
+    "name" : "Chambers St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "G22",
+    "name" : "Court Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "F11",
+    "name" : "Lexington Av/53 St"
+  },
+  "destination" : {
+    "id" : "630",
+    "name" : "51 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "F15",
+    "name" : "Delancey St"
+  },
+  "destination" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "destination" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "G14",
+    "name" : "Jackson Hts - Roosevelt Av"
+  },
+  "destination" : {
+    "id" : "710",
+    "name" : "74 St - Broadway"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "G22",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "719",
+    "name" : "Court Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "G22",
+    "name" : "Court Sq"
+  },
+  "destination" : {
+    "id" : "F09",
+    "name" : "Court Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "G29",
+    "name" : "Metropolitan Av"
+  },
+  "destination" : {
+    "id" : "L10",
+    "name" : "Lorimer St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L01",
+    "name" : "8 Av"
+  },
+  "destination" : {
+    "id" : "A31",
+    "name" : "14 St"
+  },
+  "duration" : 90,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "destination" : {
+    "id" : "132",
+    "name" : "14 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L02",
+    "name" : "6 Av"
+  },
+  "destination" : {
+    "id" : "D19",
+    "name" : "14 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "destination" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L10",
+    "name" : "Lorimer St"
+  },
+  "destination" : {
+    "id" : "G29",
+    "name" : "Metropolitan Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L17",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "destination" : {
+    "id" : "M08",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "A51",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L22",
+    "name" : "Broadway Jct"
+  },
+  "destination" : {
+    "id" : "J27",
+    "name" : "Broadway Jct"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "L26",
+    "name" : "Livonia Av"
+  },
+  "destination" : {
+    "id" : "254",
+    "name" : "Junius St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M08",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "destination" : {
+    "id" : "L17",
+    "name" : "Myrtle - Wyckoff Avs"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M18",
+    "name" : "Essex St"
+  },
+  "destination" : {
+    "id" : "F15",
+    "name" : "Delancey St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M21",
+    "name" : "Chambers St"
+  },
+  "destination" : {
+    "id" : "640",
+    "name" : "Brooklyn Bridge - City Hall"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "229",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "418",
+    "name" : "Fulton St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "M22",
+    "name" : "Fulton St"
+  },
+  "destination" : {
+    "id" : "A38",
+    "name" : "Fulton St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "N04",
+    "name" : "New Utrecht Av"
+  },
+  "destination" : {
+    "id" : "B16",
+    "name" : "62 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R09",
+    "name" : "Queensboro Plaza"
+  },
+  "destination" : {
+    "id" : "718",
+    "name" : "Queensboro Plaza"
+  },
+  "duration" : 0,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "destination" : {
+    "id" : "629",
+    "name" : "59 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R11",
+    "name" : "Lexington Av/59 St"
+  },
+  "destination" : {
+    "id" : "B08",
+    "name" : "Lexington Av/63 St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "127",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "725",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "902",
+    "name" : "Times Sq - 42 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R16",
+    "name" : "Times Sq - 42 St"
+  },
+  "destination" : {
+    "id" : "A27",
+    "name" : "42 St - Port Authority Bus Terminal"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R17",
+    "name" : "34 St - Herald Sq"
+  },
+  "destination" : {
+    "id" : "D17",
+    "name" : "34 St - Herald Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "635",
+    "name" : "14 St - Union Sq"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R20",
+    "name" : "14 St - Union Sq"
+  },
+  "destination" : {
+    "id" : "L03",
+    "name" : "Union Sq - 14 St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "639",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "M20",
+    "name" : "Canal St"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R23",
+    "name" : "Canal St"
+  },
+  "destination" : {
+    "id" : "Q01",
+    "name" : "Canal St"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R27",
+    "name" : "Whitehall St"
+  },
+  "destination" : {
+    "id" : "140",
+    "name" : "South Ferry Loop"
+  },
+  "duration" : 120,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "destination" : {
+    "id" : "232",
+    "name" : "Borough Hall"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R28",
+    "name" : "Court St"
+  },
+  "destination" : {
+    "id" : "423",
+    "name" : "Borough Hall"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R29",
+    "name" : "Jay St - MetroTech"
+  },
+  "destination" : {
+    "id" : "A41",
+    "name" : "Jay St - MetroTech"
+  },
+  "duration" : 90,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "235",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R31",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "destination" : {
+    "id" : "D24",
+    "name" : "Atlantic Av - Barclays Ctr"
+  },
+  "duration" : 300,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "R33",
+    "name" : "9 St"
+  },
+  "destination" : {
+    "id" : "F23",
+    "name" : "4 Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "S01",
+    "name" : "Franklin Av"
+  },
+  "destination" : {
+    "id" : "A45",
+    "name" : "Franklin Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+}, {
+  "source" : {
+    "id" : "S04",
+    "name" : "Botanic Garden"
+  },
+  "destination" : {
+    "id" : "239",
+    "name" : "Franklin Av"
+  },
+  "duration" : 180,
+  "line" : "0"
+} ]
